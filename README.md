@@ -1,2 +1,7 @@
 # Chan_Lab_utilities
 Useful items for efforts in the Chan Lab
+
+------------
+
+
+- [JupyterLite for efforts related to Chan Lab utilities](https://github.com/fomightez/JLiteCL)
