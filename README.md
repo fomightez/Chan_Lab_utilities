@@ -6,7 +6,7 @@ Useful items for efforts in the Chan Lab
 ### Jupyter Notebooks
 
 
-- `Zoe Guide`
+- [`Zoe Guide`-generating code](https://github.com/fomightez/Chan_Lab_utilities/blob/main/nbs/Zoe_Guide.ipynb)
 
 --------
 
