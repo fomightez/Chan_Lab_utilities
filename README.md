@@ -4,9 +4,9 @@ Useful items for efforts in the Chan Lab
 ------------
 
 ### Jupyter Notebooks
-------------
 
-- Zoe Guide
+
+- `Zoe Guide`
 
 --------
 
@@ -17,3 +17,5 @@ Useful items for efforts in the Chan Lab
 --------
 
 ### SCripts
+
+- `Placeholder.py`
