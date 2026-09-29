@@ -16,6 +16,6 @@ Useful items for efforts in the Chan Lab
 
 --------
 
-### SCripts
+### Scripts
 
 - `Placeholder.py`
