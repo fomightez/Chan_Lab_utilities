@@ -6,7 +6,7 @@ Useful items for efforts in the Chan Lab
 ### Jupyter Notebooks
 
 
-- [`Zoe Guide`-generating code](https://github.com/fomightez/Chan_Lab_utilities/blob/main/nbs/Zoe_Guide.ipynb)
+- [`Zoe Guide`-generating code](https://github.com/fomightez/Chan_Lab_utilities/blob/main/nbs/Zoe_Guide.ipynb) (Be aware that GitHub's preview won't render accurately the HTML produced. Click [here](https://fomightez.github.io/JLiteCL/lab/index.html?fromURL=https://raw.githubusercontent.com/fomightez/Chan_Lab_utilities/refs/heads/main/nbs/Zoe_Guide.ipynb) to run this in JupyterLite in a virtual server running inside your browser so that the produced HTML is shown well.)
 
 --------
 
