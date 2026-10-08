@@ -15,8 +15,9 @@ Useful items for efforts in the Chan Lab
 - [Utility with demonstration Jupyter notebook for making better report PDFs (or HTML files) from Jupyter `.ipynb` files](https://github.com/fomightez/respect_collapsed_folded_code4HTML_reports-binder)
 - [My Plasmidsaurus utilities to help with dealing with analysis viral data generated via Plasmidsaurus](https://github.com/fomightez/sequencework/blob/master/plasmidsaurus-utilities/)
 - [JupyterLite for efforts related to Chan Lab utilities](https://github.com/fomightez/JLiteCL)
-- Brandel/ISCO fractionator plotting utility
+- Brandel/ISCO fractionator plotting utility - NEEDS POSTING ON GITHUB & still need to make NB demonstrating on the provided example data
 - Antibodies Organizing script / notebook -TBD
+- Notebook demonstrating `extract_mismatch_positions_from_blast_alignment.py` - SCRIPT NEEDS POSTING ON GITHUB & still need to make the NB
 
 --------
 
