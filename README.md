@@ -18,6 +18,7 @@ Useful items for efforts in the Chan Lab
 - Brandel/ISCO fractionator plotting utility - NEEDS POSTING ON GITHUB & still need to make NB demonstrating on the provided example data
 - Antibodies Organizing script / notebook -TBD
 - Notebook demonstrating `extract_mismatch_positions_from_blast_alignment.py` - SCRIPT NEEDS POSTING ON GITHUB & still need to make the NB
+- [repo for running Seurat and Azimuth in MyBinder launches](https://github.com/fomightez/SeuratAzimuth-binder)
 - [UpstateRNanocourseSP26wk1-binder](https://github.com/fomightez/UpstateRNanocourseSP26wk1-binder)
 - [CHIPseq_Upstate](https://github.com/fomightez/CHIPseq_Upstate)
 
