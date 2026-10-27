@@ -22,6 +22,7 @@ Useful items for efforts in the Chan Lab
 - [UpstateRNanocourseSP26wk1-binder](https://github.com/fomightez/UpstateRNanocourseSP26wk1-binder)
 - [CHIPseq_Upstate](https://github.com/fomightez/CHIPseq_Upstate)
 
+
 --------
 
 ### Scripts
@@ -29,3 +30,4 @@ Useful items for efforts in the Chan Lab
 - `Placeholder.py`
 - Brandel/ISCO fractionator plotting utility
 - Antibodies Organizing script / notebook -TBD
+- Make a demo (Jupyter Notebook) of my script, [extract_mismatch_positions_from_blast_alignment.py](https://github.com/fomightez/sequencework/tree/master/alignment-utilities), which takes a BLAST pairwise alignment of two sequences and extracts the positions of mismatches relative to the QUERY sequence coordinates. That list is useful for specifying positions to avoid when designing primers and probes (e.g., via IDT PrimerQuest) so that they do not span sites that differ between two strains/variants.
