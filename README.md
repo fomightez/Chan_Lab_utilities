@@ -16,6 +16,7 @@ Useful items for efforts in the Chan Lab
 - [My Plasmidsaurus utilities to help with dealing with analysis viral data generated via Plasmidsaurus](https://github.com/fomightez/sequencework/blob/master/plasmidsaurus-utilities/)
 - [JupyterLite for efforts related to Chan Lab utilities](https://github.com/fomightez/JLiteCL)
 - Brandel/ISCO fractionator plotting utility - NEEDS POSTING ON GITHUB & still need to make NB demonstrating on the provided example data
+- [IDT spec sheet mining to make a spreadsheet of primers/oligonucleotides](https://github.com/fomightez/idt_spec_sheet_processing) if you order yours from [Integrated DNA Technology (IDT)](https://www.idtdna.com/).
 - Antibodies Organizing script / notebook -TBD
 - Notebook demonstrating `extract_mismatch_positions_from_blast_alignment.py` - SCRIPT NEEDS POSTING ON GITHUB & still need to make the NB
 - [repo for running Seurat and Azimuth in MyBinder launches](https://github.com/fomightez/SeuratAzimuth-binder)
